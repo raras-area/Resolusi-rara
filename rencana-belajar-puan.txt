@@ -1,6 +1,7 @@
 Rencana :
 - belajar javascript
   * belajar ES6
+  * belajar HTML
 - belajar java
 - belajar PHP
 - Belajar front-end
