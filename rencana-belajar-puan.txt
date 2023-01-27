@@ -1,0 +1,6 @@
+Rencana :
+- belajar javascript
+  * belajar ES6
+- belajar java
+- belajar PHP
+- Belajar front-end
