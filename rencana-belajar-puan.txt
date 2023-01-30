@@ -3,6 +3,7 @@ Rencana :
   * belajar ES6
   * belajar html
   * belajar css
+  * belajar nodeJS
 - belajar git 
 - belajar java
 - belajar PHP
